@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+  }
+  .hero-split {
+    grid-template-columns: 1fr;
+  }
+  .vlog-grid {
+    grid-template-columns: 1fr;
+  }
+}

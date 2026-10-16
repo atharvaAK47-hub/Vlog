@@ -1,0 +1,6 @@
+{
+  "name": "VlogVerse – Vlog Sharing Platform",
+  "description": "A full-stack vlog and video sharing platform where creators upload and stream vlogs, write blog stories, engage with likes and comments, and build their creative community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
